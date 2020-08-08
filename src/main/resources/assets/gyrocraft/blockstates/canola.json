@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "growth=0": { "model":  "gyrocraft:block/canola/canola_0" },
+    "growth=1": { "model":  "gyrocraft:block/canola/canola_1" },
+    "growth=2": { "model":  "gyrocraft:block/canola/canola_2" },
+    "growth=3": { "model":  "gyrocraft:block/canola/canola_3" },
+    "growth=4": { "model":  "gyrocraft:block/canola/canola_4" },
+    "growth=5": { "model":  "gyrocraft:block/canola/canola_5" },
+    "growth=6": { "model":  "gyrocraft:block/canola/canola_6" },
+    "growth=7": { "model":  "gyrocraft:block/canola/canola_7" },
+    "growth=8": { "model":  "gyrocraft:block/canola/canola_8" },
+    "growth=9": { "model":  "gyrocraft:block/canola/canola_9" }
+  }
+}

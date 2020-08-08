@@ -1,0 +1,6 @@
+{
+	"parent": "block/furnace",
+	"textures": {
+		"front": "gyrocraft:block/electric_furnace_front"
+	}
+}

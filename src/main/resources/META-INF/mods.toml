@@ -18,11 +18,11 @@ issueTrackerURL="http://github.com/YourName/Your-Mod-Name/issues" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId="examplemod" #mandatory
+modId="gyrocraft" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 version="${version}" #mandatory
 # A display name for the mod
-displayName="Example Mod" #mandatory
+displayName="GyroCraft" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
 updateJSONURL="http://github.com/YourName/Your-Mod-Name/update.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis lacinia magn
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.examplemod]] #optional
+[[dependencies.gyrocraft]] #optional
 # The modid of the dependency
 modId="forge" #mandatory
 # Does this dependency have to exist - if not, ordering below must be specified
@@ -56,7 +56,7 @@ ordering="NONE"
 side="BOTH"
 
 # Here's another dependency
-[[dependencies.examplemod]]
+[[dependencies.gyrocraft]]
 modId="minecraft"
 mandatory=true
 versionRange="[1.15.2]"

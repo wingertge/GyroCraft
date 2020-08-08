@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "gyrocraft:example_block"
+		}
+	],
+	"result": {
+		"item": "gyrocraft:example_crystal",
+		"count": 9
+	}
+}

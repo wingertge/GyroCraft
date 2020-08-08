@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "gyrocraft:example_ore"
+	},
+	"result": "gyrocraft:example_crystal",
+	"experience": 0.7,
+	"cookingtime": 200
+}

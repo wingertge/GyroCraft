@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "gyrocraft:block/heat_collector"
+		}
+	}
+}
