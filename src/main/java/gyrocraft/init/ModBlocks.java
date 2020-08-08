@@ -35,5 +35,5 @@ public final class ModBlocks {
     public static final RegistryObject<Block> HEAT_COLLECTOR = BLOCKS.register("heat_collector", () -> new HeatCollectorBlock(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.5F).lightValue(13)));
     public static final RegistryObject<Block> ELECTRIC_FURNACE = BLOCKS.register("electric_furnace", () -> new ElectricFurnaceBlock(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.5F)));
     public static final RegistryObject<Block> MOD_FURNACE = BLOCKS.register("mod_furnace", () -> new ModFurnaceBlock(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.5F).lightValue(13)));
-    public static final RegistryObject<CanolaBlock> CANOLA = BLOCKS.register("canola", () -> new CanolaBlock(Block.Properties.create(Material.PLANTS).sound(SoundType.PLANT)));
+    public static final RegistryObject<Block> CANOLA = BLOCKS.register("canola", () -> new CanolaBlock(Block.Properties.create(Material.PLANTS).sound(SoundType.PLANT)));
 }

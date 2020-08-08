@@ -1,3 +1,4 @@
+/*
 package gyrocraft.block;
 
 import gyrocraft.init.ModItems;
@@ -97,4 +98,4 @@ public class CanolaBlock extends Block implements IPlantable, IGrowable, CustomI
         return world.getLightValue(pos) >= 6 ||
                 world.canBlockSeeSky(pos.up()) && isValidFarmBlock(world, pos.down());
     }
-}
+}*/

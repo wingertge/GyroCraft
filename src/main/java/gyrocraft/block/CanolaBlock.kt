@@ -1,4 +1,3 @@
-/*
 package gyrocraft.block
 
 import gyrocraft.init.ModItems
@@ -82,4 +81,3 @@ class CanolaBlock(props: Properties): Block(props.tickRandomly()), IPlantable, I
     private fun canSurvive(world: World, pos: BlockPos) =
             world.getLightValue(pos) >= 6 || world.canBlockSeeSky(pos.up()) && isValidFarmBlock(world, pos.down())
 }
-*/
